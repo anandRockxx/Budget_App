@@ -1,1 +1,1 @@
-# Buget_App
+# Budget_App
